@@ -11,8 +11,7 @@ Welcome to my personals site! I am a future physician and public health research
 
 * [**Research Portfolio**](/research.md) 
 * [**Professional Experience**](/experience.md)
-* [**View My CV**](/Eashwar_Krishna_CV.pdf)  *(You'll need to upload your CV as a PDF to the repository)*
-* [**Admissions Advising**](/advising.md) *(For your future business)*
+* [**View My CV**](/Eashwar_Krishna_CV.pdf)
 
 ### Connect and Contact
 
