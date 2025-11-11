@@ -11,7 +11,6 @@ Welcome to my personals site! I am a future physician and public health research
 
 * [**Research Portfolio**](/research.md) 
 * [**Professional Experience**](/experience.md)
-* [**View My CV**](/CV - Newest Contactless 2025.pdf)
 
 ### Connect and Contact
 
