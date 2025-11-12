@@ -24,4 +24,5 @@ I am passionate about education and mentorship, particularly in the sciences and
 ### UConn Undergraduate Science Journal
 **Editorial Board Member** (September 2025 - Present)
 * Review and edit submissions for publication.
+* [Journal Site](https://uconnusj.org/)
 * Collaborate with student authors to refine their scientific writing.
