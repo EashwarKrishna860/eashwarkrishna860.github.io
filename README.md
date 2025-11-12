@@ -6,9 +6,9 @@ I am a future physician and public health researcher passionate about achieving 
 ### Navigation
 
 * [**Research Portfolio**](/research.md) 
-* [**Professional Experience**](/experience.md)
-* [**Clinical Skills and Experience**](/clinical.md)
-* [**Teaching and Academic Engagement**](/teaching.md)
+* [**Professional & Community Experience**](/experience.md)
+* [**Clinical Skills & Experience**](/clinical.md)
+* [**Teaching & Academic Engagement**](/teaching.md)
 
 
 ### Connect and Contact
