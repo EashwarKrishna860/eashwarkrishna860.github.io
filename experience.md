@@ -2,7 +2,8 @@
 
 I am actively involved in community action and leadership with a focus on applying my work to hands-on efforts in rural and underserved communities.
 
----
+[Main Page](/README.md)
+
 ## Professional & Policy Experience
 
 ### Connecticut Office of Rural Health
