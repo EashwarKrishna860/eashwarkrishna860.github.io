@@ -51,6 +51,7 @@ I am actively involved in community action and leadership with a focus on applyi
 ### New England Rural Health Association (NERHA)
 * **Member**, Education and Workforce Development Committee (2024 - Present)
 * **Member**, Policy Committee (2025 - Present)
+* [Organization Site](https://www.nerha.org/our-committees)
 
 ### Student Health and Wellness (UConn SHaW)
 * **Member**, Student Advisory Board (2025 - Present)
