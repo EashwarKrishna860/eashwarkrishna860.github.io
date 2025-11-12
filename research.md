@@ -3,9 +3,9 @@
 My primary research focuses on rural health equity, health sociology, and quantitatively assessing the social determinants of health More specifically, I focus on how root causes of illness (i.e food insecurity) and barriers to care (i.e transportation and broadband access) intersect with rural geographies to produce health disparities. 
 
 The following is meant to showcase a few projects -- it is not comprehensive. For a complete list, please visit my [ResearchGate Profile](httpss://www.researchgate.net/profile/Eashwar-Krishna).
----
+
 [Main Page](/README.md)
----
+
 
 ## 🩺 Population Health & Health Equity
 
