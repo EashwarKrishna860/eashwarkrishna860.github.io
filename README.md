@@ -7,6 +7,8 @@ I am a future physician and public health researcher passionate about achieving 
 
 * [**Research Portfolio**](/research.md) 
 * [**Professional Experience**](/experience.md)
+* [**Clinical Skills and Experience](/clinical.md)
+
 
 ### Connect and Contact
 
