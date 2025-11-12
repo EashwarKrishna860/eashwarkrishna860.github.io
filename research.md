@@ -16,10 +16,6 @@ My work in this area investigates the structural and social factors that drive h
     * [View Publication (DOI: 10.1007/s43999-024-00055-9)](https://doi.org/10.1007/s43999-024-00055-9)
 
 ### Manuscripts
-
-* **Krishna, E.S.C.** (2025). **Concordance of the Index of Relative Rurality with Contemporary USDA and Census Measures.**
-    * This paper explores the agreement and divergence between the 2020 Index of Relative Rurality (IRR) and the 2023 Rural-Urban Continuum Codes (RUCC).
-    * [View Manuscript on ResearchGate](https://www.researchgate.net/publication/392256743_Concordance_of_the_Index_of_Relative_Rurality_with_Contemporary_USDA_and_Census_Measures)
  
 * **Krishna, E.**, Manjrekar, A., Araujo, N. (November 2025). **The Rural Access and Determinants Index: Rethinking the Classification of Rural Counties for Health Equity.**
     * Oral presentation at the New England Rural Health Association Conference; Groton, CT.
@@ -30,7 +26,12 @@ My work in this area investigates the structural and social factors that drive h
 
 * **Krishna, E.** (May 2025). **Provider Density and Systemic Contributors to Rural Cardiovascular Disease Mortality in New England**
     * Conference paper at the National Rural Health Association Conference; Atlanta, GA.
+    * This study aims to quantify the relationship between CVD-related mortality and the availability of primary-care (PCP) and specialist providers in rural and non-rural areas of New England. 
     * [View Manuscript on ResearchGate](https://www.researchgate.net/publication/388617585_Provider_Density_and_Systemic_Contributors_to_Rural_Cardiovascular_Disease_Mortality_in_New_England)
+
+* **Krishna, E.S.C.** (2025). **Concordance of the Index of Relative Rurality with Contemporary USDA and Census Measures.**
+    * This paper explores the agreement and divergence between the 2020 Index of Relative Rurality (IRR) and the 2023 Rural-Urban Continuum Codes (RUCC).
+    * [View Manuscript on ResearchGate](https://www.researchgate.net/publication/392256743_Concordance_of_the_Index_of_Relative_Rurality_with_Contemporary_USDA_and_Census_Measures)
 
 ### Presentations & Posters
 
@@ -41,6 +42,7 @@ My work in this area investigates the structural and social factors that drive h
 
 * **Krishna, E.**, Shah, S. (September 2025). **Evaluating a Tiered System for Classifying Rural Connecticut Towns and Associated Health Outcomes.**
     * Poster presentation at the Regional Medical Education Conference; Yale School of Medicine, New Haven, CT.
+    * Ranked Best Undergraduate Poster
     * [View Associated Dataset (DOI: 10.5281/zenodo.17268541)](https://www.researchgate.net/publication/396193858_Evaluating_a_Tiered_System_for_Classifying_Rural_Connecticut_Towns_and_Associated_Health_Outcomes)
 
 * **Krishna, E.**, Misra, V., Chandramohan, R. (November 2025). **Uncovering Structural Inequality: Causal Analysis of Rural and Racial Environmental Justice.**
@@ -50,6 +52,7 @@ My work in this area investigates the structural and social factors that drive h
  
 * **Krishna, E.**, Suresh Nagan, T., Yerra, P. (October 2025). **Landscapes of Inequality: Structural Racial Disparities in the Rural Built and Natural Environment**
     * Poster presentation at the Frontiers in Undergraduate Research Symposium
+    * This study engages theories of spatial injustice, structural racism, and environmental injustice in conducting a nationwide analysis of rural counties; assessing the presence of racial disparities in the built and natural environment. 
     * [View on ResearchGate (DOI: 10.13140/RG.2.2.12065.67685)](https://www.researchgate.net/publication/395158652_Landscapes_of_Inequality_Structural_Racial_Disparities_in_the_Rural_Built_and_Natural_Environment)
 
 ### Research Datasets and Technical Reports
