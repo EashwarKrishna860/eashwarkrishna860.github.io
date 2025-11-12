@@ -2,7 +2,7 @@
 
 I am passionate about education and mentorship, particularly in the sciences and health professions. This page details my experience in tutoring and other academic leadership roles.
 
----
+[Main Page](/README.md)
 
 ## Teaching & Tutoring
 
