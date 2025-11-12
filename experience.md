@@ -8,8 +8,9 @@ I am actively involved in community action and leadership with a focus on applyi
 
 ### Connecticut Office of Rural Health
 **Project Intern** (Sep 2025 - November 2025)
-* Work with a multi-agency team to develop the state's Rural Health Transformation Plan for a $500M CMS funding opportunity.
-* Utilize research background in rural health access to draft grant language, compile relevant data, and advise team members.
+* Worked with a multi-agency team to develop the state's Rural Health Transformation Plan for a $500M CMS funding opportunity.
+* Utilized research background in rural health access to draft grant language, compile relevant data, and advise team members.
+* Enhanced public-facing interfaces to improve accessibility
 
 ### National Rural Health Association
 **Intern, Communications Team** (Jan 2024 - May 2024)
