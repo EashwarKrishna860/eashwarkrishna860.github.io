@@ -58,4 +58,4 @@ I am actively involved in community action and leadership with a focus on applyi
 * **Member**, Student Advisory Board (2025 - Present)
 
 ### The Hospital of Central Connecticut
-* **Founding Member**, Volunteer Advisory Board (2022 - Present)
+* **Founding Member**, Volunteer Advisory Board (2023 - Present)
