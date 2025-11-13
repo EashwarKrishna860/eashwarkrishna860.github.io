@@ -1,6 +1,6 @@
 # Professional & Community Experience
 
-I am actively involved in community action and leadership with a focus on applying my work to hands-on efforts in rural and underserved communities.
+I am actively involved in community action and leadership with a focus on applying my work to hands-on efforts in rural and underserved communities; for which I was awarded the inaugural Rural Student Leader Award (2025) from the New England Rural Health Association
 
 [Main Page](/README.md)
 
