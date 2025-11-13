@@ -5,6 +5,7 @@ I am a future physician and public health researcher passionate about achieving 
 * B.S. Molecular & Cell Biology, University of Connecticut (Aug 2022 - May 2026)
   * Minor in Physiology and Neurobiology, focusing on environmental medicine 
 * Awarded the inaugural Rural Student Leader Award (2025) from the New England Rural Health Association
+
 ---
 
 ### Navigation
