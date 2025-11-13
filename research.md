@@ -44,7 +44,7 @@ My work in this area investigates the structural and social factors that drive h
 * **Krishna, E.**, Shah, S. (September 2025). **Evaluating a Tiered System for Classifying Rural Connecticut Towns and Associated Health Outcomes.**
     * Poster presentation at the Regional Medical Education Conference; Yale School of Medicine, New Haven, CT.
     * Ranked Best Undergraduate Poster
-    * [View Associated Dataset (DOI: 10.5281/zenodo.17268541)](https://www.researchgate.net/publication/396193858_Evaluating_a_Tiered_System_for_Classifying_Rural_Connecticut_Towns_and_Associated_Health_Outcomes)
+    * [View Project on ResearchGate](https://www.researchgate.net/publication/396193858_Evaluating_a_Tiered_System_for_Classifying_Rural_Connecticut_Towns_and_Associated_Health_Outcomes)
 
 * **Krishna, E.**, Misra, V., Chandramohan, R. (November 2025). **Uncovering Structural Inequality: Causal Analysis of Rural and Racial Environmental Justice.**
     * Poster presentation at the Texas Undergraduate Research Conference for Social Sciences
