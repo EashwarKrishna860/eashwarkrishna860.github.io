@@ -56,6 +56,7 @@ My work in this area investigates the structural and social factors that drive h
     * This study engages theories of spatial injustice, structural racism, and environmental injustice in conducting a nationwide analysis of rural counties; assessing the presence of racial disparities in the built and natural environment.
     * Supported by the 2025 Sociology Undergraduate Research Grant
     * [View on ResearchGate (DOI: 10.13140/RG.2.2.12065.67685)](https://www.researchgate.net/publication/395158652_Landscapes_of_Inequality_Structural_Racial_Disparities_in_the_Rural_Built_and_Natural_Environment)
+    * Accepted as a conference paper to the 2026 Eastern Sociological Society Conference as "Structured Absence: Race, Disinvestment, and the Geography of Rural Inequality"
 
 ### Research Datasets and Technical Reports
 
