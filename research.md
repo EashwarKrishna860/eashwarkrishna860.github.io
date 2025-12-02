@@ -41,6 +41,13 @@ My work in this area investigates the structural and social factors that drive h
     * Interaction analysis of food insecurity and rurality in predicting mental health outcomes in rural counties within a Durkheimian framework of suicide
     * [View Project on ResearchGate](https://www.researchgate.net/profile/Eashwar-Krishna)
 
+* **Krishna, E.**, Suresh Nagan, T., Yerra, P. (October 2025). **Landscapes of Inequality: Structural Racial Disparities in the Rural Built and Natural Environment**
+    * Poster presentation at the Frontiers in Undergraduate Research Symposium
+    * This study engages theories of spatial injustice, structural racism, and environmental injustice in conducting a nationwide analysis of rural counties; assessing the presence of racial disparities in the built and natural environment.
+    * Supported by the 2025 Sociology Undergraduate Research Grant
+    * [View on ResearchGate (DOI: 10.13140/RG.2.2.12065.67685)](https://www.researchgate.net/publication/395158652_Landscapes_of_Inequality_Structural_Racial_Disparities_in_the_Rural_Built_and_Natural_Environment)
+    * Accepted as a conference paper to the 2026 Eastern Sociological Society Conference as "Structured Absence: Race, Disinvestment, and the Geography of Rural Inequality" (Krishna, E., Smith, K., Suresh Nagan, T., Yerra, P.)
+
 * **Krishna, E.**, Shah, S. (September 2025). **Evaluating a Tiered System for Classifying Rural Connecticut Towns and Associated Health Outcomes.**
     * Poster presentation at the Regional Medical Education Conference; Yale School of Medicine, New Haven, CT.
     * Ranked Best Undergraduate Poster
@@ -50,13 +57,7 @@ My work in this area investigates the structural and social factors that drive h
     * Poster presentation at the Texas Undergraduate Research Conference for Social Sciences
     * This study applies a novel method involving Fast Causal Inference (FCI) and Structural Equation Modeling (SEM) to identify causal relationships between racial demographics, socioeconomic conditions, and environmental outcomes in rural U.S. counties.
     * [View Project on ResearchGate (DOI: 10.13140/RG.2.2.12065.67685)](https://www.researchgate.net/publication/395158652_Landscapes_of_Inequality_Structural_Racial_Disparities_in_the_Rural_Built_and_Natural_Environment)
- 
-* **Krishna, E.**, Suresh Nagan, T., Yerra, P. (October 2025). **Landscapes of Inequality: Structural Racial Disparities in the Rural Built and Natural Environment**
-    * Poster presentation at the Frontiers in Undergraduate Research Symposium
-    * This study engages theories of spatial injustice, structural racism, and environmental injustice in conducting a nationwide analysis of rural counties; assessing the presence of racial disparities in the built and natural environment.
-    * Supported by the 2025 Sociology Undergraduate Research Grant
-    * [View on ResearchGate (DOI: 10.13140/RG.2.2.12065.67685)](https://www.researchgate.net/publication/395158652_Landscapes_of_Inequality_Structural_Racial_Disparities_in_the_Rural_Built_and_Natural_Environment)
-    * Accepted as a conference paper to the 2026 Eastern Sociological Society Conference as "Structured Absence: Race, Disinvestment, and the Geography of Rural Inequality"
+
 
 ### Research Datasets and Technical Reports
 
