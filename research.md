@@ -13,8 +13,11 @@ My work in this area investigates the structural and social factors that drive h
 
 ### Peer-Reviewed Publications
 
-* **Krishna, E.** (2024). **Socioeconomic factors influencing rural-urban ambulance response time disparities in Connecticut.** *Res Health Serv Reg 3*, 19.
-    * [View Publication (DOI: 10.1007/s43999-024-00055-9)](https://doi.org/10.1007/s43999-024-00055-9)
+* **Krishna, E.** (2024). **Socioeconomic factors influencing rural-urban ambulance response time disparities in Connecticut.** *Research in Health Services and Regions*
+    * [View Publication (DOI: 10.1007/s43999-024-00055-9)](https://www.researchgate.net/publication/386387136_Socioeconomic_factors_influencing_rural-urban_ambulance_response_time_disparities_in_Connecticut)
+
+* **Krishna, E.** (2025). **Sociocultural Barriers to Mental Healthcare in Vulnerable Rural Populations: A Systematic Review** *Frontiers in Preventative Medicine*
+    * [View Publication (DOI: 10.64904/fpm25019)](https://www.researchgate.net/publication/398191716_Sociocultural_Barriers_to_Mental_Healthcare_in_Vulnerable_Rural_Populations_A_Systematic_Review)
 
 ### Manuscripts
  
